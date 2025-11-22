@@ -1,2 +1,2 @@
 # Lab2_Plagiarism-detector-summative
-Python based application to help detecting plagiarism
+This project is a simple Python program that compares two text files (essay1.txt and essay2.txt) to check how similar they are. It also includes a small Bash script to set up the project folders(essays, reports and setup.log file) before running the Python program. THe program helps text cleaning, word search, finding common words, plagiarism percentage and saving a report.
